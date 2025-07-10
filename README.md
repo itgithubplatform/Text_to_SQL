@@ -1,6 +1,7 @@
 # Text to SQL Assistant for AaiTech Industries
 
 A Streamlit web app that converts natural language business questions into SQL queries, executes them on a MySQL database, and displays the results. Powered by Azure OpenAI and Azure Cognitive Search.
+![Screenshot 2025-07-10 122800](https://github.com/user-attachments/assets/f6f6c346-fac5-454a-adc0-f6a3d876e06e)
 
 ## Features
 
