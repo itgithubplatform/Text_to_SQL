@@ -88,7 +88,7 @@ st.sidebar.markdown(
     <h3 style='color:#2563eb;'>AaiTech Industries</h3>
     <p style='color:#64748b;'>Empowering business intelligence with AI-driven automation.</p>
     <hr>
-    <p style='font-size:0.95rem;'>Contact: <a href="mailto:info@aaitech.com">info@aaitech.com</a></p>
+    <p style='font-size:0.95rem;'>Contact: <a href="mailto:benugopal2005@gmail.com">benugopal2005@gmail.com</a></p>
     """,
     unsafe_allow_html=True,
 )
